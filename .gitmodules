@@ -1,0 +1,3 @@
+[submodule "Waves"]
+	path = Waves
+	url = https://github.com/publicis-indonesia/Waves.git
